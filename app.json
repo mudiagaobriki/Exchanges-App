@@ -1,0 +1,31 @@
+{
+  "expo": {
+    "name": "Transfy",
+    "slug": "transfy",
+    "scheme": "transfy",
+    "version": "1.0.8",
+    "orientation": "portrait",
+    "icon": "./assets/images/icon.png",
+    "splash": {
+      "image": "./assets/images/logo.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "io.transfy.app"
+    },
+    "android": {
+      "googleServicesFile": "./google-services.json",
+      "package": "io.transfy.app",
+      "versionCode": 7,
+      "useNextNotificationsApi": true,
+    }
+  }
+}

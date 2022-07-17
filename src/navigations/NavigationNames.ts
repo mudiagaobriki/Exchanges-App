@@ -1,0 +1,37 @@
+export default {
+  HomeTabRootStack: "HomeTabRootStack",
+
+  NjLoginScreen: "NjLoginScreen",
+  NjRegisterScreen: "NjRegisterScreen",
+
+  // Screens
+  // HomeScreen: "HomeScreen",
+  HomeScreenNew: "HomeScreenNew",
+  NjSplashScreen: "NjSplashScreen",
+  NjExchangeScreen: "NjExchangeScreen",
+  NjAppLoadingScreen: "NjAppLoadingScreen",
+  NjAccountScreen: "NjAccountScreen",
+  NjProfileScreen: "NjProfileScreen",
+  NjTransactionHistoryScreen: "NjTransactionHistoryScreen",
+  NjTransactionDetailScreen: "NjTransactionDetailScreen",
+  NjAddCashScreen: "NjAddCashScreen",
+  NjWalletScreen: "NjWalletScreen",
+  NjBankDepositScreen: "NjBankDepositScreen",
+  NjBankWithdrawScreen: "NjBankWithdrawScreen",
+  NjWalletTransferScreen: "NjWalletTransferScreen",
+  NjWithdrawWalletScreen: "NjWithdrawWalletScreen",
+  NjAccountVerificationScreen: "NjAccountVerificationScreen",
+  NjForgetPasswordScreen:"NjForgetPasswordScreen",
+  NjChangePasswordScreen: "NjChangePasswordScreen",
+  NjDepositScreen: "NjDepositScreen",
+  NjDepositScreen2: "NjDepositScreen2",
+  NjNairaDepositScreen: "NjNairaDepositScreen",
+  NjGhanaDepositScreen: "NjGhanaDepositScreen",
+  NjCreatePinScreen: "NjCreatePinScreen",
+  NjConfirmPinScreen: "NjConfirmPinScreen",
+  NjInputPinScreen: "NjInputPinScreen",
+  NjEmailVerificationScreen: "NjEmailVerificationScreen",
+  NjLiveChat: "NjLiveChat",
+  NjBeneficiaryScreen: "NjBeneficiaryScreen",
+
+};

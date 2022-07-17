@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "433779013368",
+    "firebase_url": "https://transfy-20486-default-rtdb.firebaseio.com",
+    "project_id": "transfy-20486",
+    "storage_bucket": "transfy-20486.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:433779013368:android:bfa3a7a67469403cf5ad0d",
+        "android_client_info": {
+          "package_name": "io.transfy.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "433779013368-ms1461rovgluj8d9hhhl4vog9ilpgtds.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBoKy0AsGRUulPE2w8LZ7Fnwj-y8By4DAw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "433779013368-ms1461rovgluj8d9hhhl4vog9ilpgtds.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
