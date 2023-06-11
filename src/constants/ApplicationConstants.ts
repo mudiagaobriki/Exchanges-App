@@ -1,25 +1,8 @@
 import { LanguageModel } from "../models";
 
-// export const BASE_URL = "http://publnews.polydesign3d.com/";
-// export const BASE_URL = "http://192.168.1.2/topit/public/";
-// export const BASE_URL = "http://efdcf37894cd.ngrok.io/";
+export const API_URL = "";
 
-// export const API_URL = "http://127.0.0.1:8000/transfy/api/v1";
-// export const API_URL = "http://192.168.1.3:8000/api/v1";
-// export const API_URL = "https://api.topit.africa/api/v1";
-// export const API_URL = "https://ae7a-210-89-58-59.ngrok.io/api/v1";
-// export const API_URL = "https://devhub.transfy.io/api/v1";
-export const API_URL = "https://app.transfy.io/api/v1";
-// export const IMAGES_URL = "https://ng.topit.africa/pub-uploaded-files/images/";
-
-// DEV
-// export const API_URL = "https://api.dev.topit.africa/mob/v1";
-// export const IMAGES_URL = "https://ng.dev.topit.africa/assets/frontend/";
-
-//LOCAL
-// export const API_URL = "http://192.168.1.17/transfy/public/api/v1";
-// export const IMAGES_URL = "http://192.168.1.17/transfy/public/assets/frontend";
-export const IMAGES_URL = "https://devhub.transfy.io/assets/frontend";
+export const IMAGES_URL = "";
 
 export const LANGUAGES: LanguageModel[] = [
   {
